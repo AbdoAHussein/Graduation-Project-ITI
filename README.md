@@ -31,7 +31,7 @@ CineZone currently retrieves its movie catalog from:
 
 The app uses the catalog's available fields, such as `imdb_id`, `name`, `poster`, and `releaseInfo`. Movie details depend on the information provided by the API.
 ## Demo
-Live link : [Click Here](https://graduation-project-iti-rho.vercel.app/moveList)
+Live link : [Click Here](https://graduation-project-iti-rho.vercel.app/)
 
 ## 👨‍💻 Author
 
